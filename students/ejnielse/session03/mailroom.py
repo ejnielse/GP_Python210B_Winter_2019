@@ -5,10 +5,6 @@
 
 
 
-def option():
-
-    print("Would you like to: Send a Thank You, Create a Report, or Quit?")
-
 def thank_you():
 
     output = []
